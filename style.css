@@ -11,7 +11,8 @@
 @import "./bangla/kalpurush.css";
 
 body {
-  background-color: #060527 !important;
+  background-color: #060527;
+  color: white; !important
 }
 .logo {
   width: 200px;
